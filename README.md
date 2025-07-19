@@ -107,7 +107,11 @@ sudo apt install wget
 - Chrome
 
 ```sh
+# Ubuntu
 sudo apt install chromium-browser
+
+# Debian
+sudo apt install chromium
 ```
 
 #### For Windows users
